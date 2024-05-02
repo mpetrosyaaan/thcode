@@ -1,5 +1,5 @@
-;states;states_code;id;year;population
-1;Yerevan;AM-ER;1;2011;1060138
+ ,states,states_code,id,year,population
+1,Yerevan,AM-ER,1,2011,1060138
 2;Yerevan;AM-ER;1;2012;1061044
 3;Yerevan;AM-ER;1;2013;1066264
 4;Yerevan;AM-ER;1;2014;1068306
